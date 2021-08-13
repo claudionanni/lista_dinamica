@@ -1,0 +1,4 @@
+#Tue Aug 10 13:08:03 CEST 2021
+base.0=/home/claudio/AndroidStudioProjects/lista_dinamica/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
